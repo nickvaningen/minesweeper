@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "minesweeper 2.0",
+"dataUrl": "nick's github.data.unityweb",
+"asmCodeUrl": "nick's github.asm.code.unityweb",
+"asmMemoryUrl": "nick's github.asm.memory.unityweb",
+"asmFrameworkUrl": "nick's github.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
